@@ -89,7 +89,7 @@ Result: ~50% faster feature delivery without compromising quality.
 
 ## 📫 Let's Connect
 
-I'm open to **remote leadership roles** globally — Lead Engineer, Android Architect,
+I'm open to **remote leadership roles** globally — Staff Software Engineer, Lead Engineer, Android Architect,
 or Mobile Engineering Manager positions.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveedali163)
