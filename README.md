@@ -67,8 +67,7 @@ maintaining the delivery discipline that ships great products.
 | Project | Role | Description |
 |---|---|---|
 | [Foodie](https://play.google.com/store/apps/details?id=com.foodie.network) | Android Team Lead | All-in-one food app for discovering, sharing, and ordering your favorite meals. Whether you're hungry or just love food content, Foodie brings everything together in one simple, fun experience. |
-| [Boomerang](https://play.google.com/store/apps/details?id=com.baydin.boomerang) | Android Team Lead | Powerful email client and meeting scheduling app for Android from the makers of Boomerang for Gmail and Boomerang for Outlook.
-Featuring advanced functionality like meeting scheduling, snoozing emails, recurring email set up, scheduling email, Inbox Pause, read receipts.|
+| [Boomerang](https://play.google.com/store/apps/details?id=com.baydin.boomerang) | Android Team Lead | Powerful email client and meeting scheduling app for Android from the makers of Boomerang for Gmail and Boomerang for Outlook. Featuring advanced functionality like meeting scheduling, snoozing emails, recurring email set up, scheduling email, Inbox Pause, read receipts.|
 | [AgriERP](https://agrierp.com/) | Android Team Lead | Enterprise job planning & work order management for agriculture |
 | [TrackQlik](https://www.trackqlik.com/) | Mobile Team Lead | Field agent task management app for enterprise teams |
 | [PeopleQlik](https://play.google.com/store/apps/details?id=com.bilytica.peopleqliksapp) | Mobile Team Lead | HR automation app (Android & iOS) — attendance, payroll, leave |
